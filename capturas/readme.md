@@ -1,0 +1,1 @@
+Solo tengo esta captura porque se me cerró el Git Bash, pero los pasos a seguir han sido hacer el printf y poner lo necesario, luego hacer git add y a la hora de hacer el commit importante poner (Close #3) en este caso porque el issue creado era el número #3 y así es como he hecho que se cierre
